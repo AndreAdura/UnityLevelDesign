@@ -18,3 +18,6 @@ CREATING PREFABS OF LEVEL PIECES
 - In order to organize the Hierarchy Panel, you should go to the top Menu "Game Obj" and "Create Empty" then you'll have a empty obj on the hierarchy panel that you can use as s folder, now name it as "level" and drag and Drop all the Level Obj inside this "folder"
 
 ----------------------------------------------------------------------------------------------------------------------------
+
+*LIGHTNING
+-To start creating the ligh Objs, first create a Obj Empty and name it "Lights" then you right click this Obj and go to Lights and choose your light type.
