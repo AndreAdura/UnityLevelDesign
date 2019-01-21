@@ -21,3 +21,7 @@ CREATING PREFABS OF LEVEL PIECES
 
 *LIGHTNING
 -To start creating the ligh Objs, first create a Obj Empty and name it "Lights" then you right click this Obj and go to Lights and choose your light type.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+*RENDERING
+- To save some memory and make the game runs smooth you need to use Occulion, this will will make the engine render just the level pieces that the player can see. (Menu Component > Rendering > Occlusion Area) to see the Options, open the Window (Window> Occlusion Culling)
